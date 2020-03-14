@@ -11,7 +11,7 @@ position = Vector2( 22, 21 )
 texture = ExtResource( 1 )
 
 [node name="Player" type="KinematicBody2D" parent="."]
-position = Vector2( 128.338, 91.0554 )
+position = Vector2( 128.074, 90.0554 )
 script = ExtResource( 2 )
 __meta__ = {
 "_edit_group_": true
